@@ -47,7 +47,7 @@ idk8.Text = "تحرك كنترول"
 idk8.TextColor3 = Color3.fromRGB(0, 0, 0)
 idk8.TextSize = 20.000
 idk8.MouseButton1Down:connect(function()
- loadstring(game:HttpGet('https://pastebin.com/raw/srtepuBM'))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Button%20Controller%20Obfuscator'))()
 end)
 
 
