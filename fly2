@@ -60,7 +60,7 @@ idk12.Text = "الجرافيك تعديل"
 idk12.TextColor3 = Color3.fromRGB(0, 0, 0)
 idk12.TextSize = 20.000
 idk12.MouseButton1Down:connect(function()
- loadstring(game:HttpGet('https://pastebin.com/raw/Bkf0BJb3'))()
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/MOTORRRR/enes/main/gxedit'))()
 end)
 
 idk13.Parent = Frame
