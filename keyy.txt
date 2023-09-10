@@ -1,7 +1,1 @@
-local ver = "4.2.3";
-print("[BHUB}:: Processed version ".."["..ver.."]")
-
--- for read
-local sv = Instance.new("StringValue", game.ReplicatedStorage)
-sv.Name = "bhver"
-sv.Value = ver
+enes_x_double_down
