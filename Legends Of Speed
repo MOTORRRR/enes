@@ -1,4 +1,3 @@
--- Made By Ree
 local autofarm = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
 local title = Instance.new("TextLabel")
